@@ -1,10 +1,10 @@
-**Overview:** This project shows how to build and host a - static website using  - Amazon S3 (Simple Storage Service).
+**Overview:** This project shows how to build and host a - **static website** using  - **Amazon S3** (Simple Storage Service).
 _________________________________________________________________________________________________________________________________________________
 **Features:**
  A basic `index.html` file with:
 - “Hello world”
-- **“I am hosted on Amazon S3”
-- ** An image
+- “I am hosted on Amazon S3”
+- An image
 _________________________________________________________________________________________________________________________________________________
 **Key Achievements:**
 -**Successfully Hosted a Website on AWS S3
